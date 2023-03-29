@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Först skapades ett konto på GitHub för att kunna hämta "hello"-projektet och göra en fork till mitt konto.
+Sedan klonade jag projektet och öppnade det med "Android Studio". Där ändrade jag texten för app_name i strings.xml 
+till "Welcome, kind person!". Sedan kunde jag öppna appen i en virtuell divice och se att appen kunde köras på den.**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+
 
 ## Följande grundsyn gäller dugga-svar:
 
