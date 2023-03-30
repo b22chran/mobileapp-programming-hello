@@ -8,6 +8,8 @@ Kod där texten för string - app_name ändrades:
 <resources>
     <string name="app_name">Welcome, kind person!</string>
 </resources>
+
+![img.png](img.png)
 **
 
 
